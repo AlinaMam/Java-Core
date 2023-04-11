@@ -1,6 +1,6 @@
 public class PhoneDemo {
     public static void main(String[] args) {
-        Phone phone1 = new Phone("8067894532", "Apple", 7.8);
+        Phone phone1 = new Phone("8067894532", "Acer", 7.8);
         Phone phone2 = new Phone("8895432230", "Samsung");
         Phone phone3 = new Phone();
 
