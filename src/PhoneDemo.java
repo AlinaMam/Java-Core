@@ -12,7 +12,7 @@ public class PhoneDemo {
 
         System.out.println(phone2.getNumber());
         System.out.println(phone2.model);
-        System.out.println(phone2.weight);
+
 
         System.out.println();
 
